@@ -1,0 +1,14 @@
+_id: env_2e2edc8b99744260a6b5c4d04c1d6b25
+type: Environment
+parentId: env_1830ece711afabc4349a1c3d0bab7c331a6b30df
+modified: 1673019914255
+created: 1673019874677
+name: Smartspace
+data:
+  BASEURL: localhost:8080
+dataPropertyOrder:
+  "&":
+    - BASEURL
+color: null
+isPrivate: false
+metaSortKey: 1673019874677
